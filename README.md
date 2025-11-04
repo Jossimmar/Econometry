@@ -12,13 +12,13 @@ It demonstrates how to estimate and interpret panel data models (FE/RE) and perf
 
 ---
 
-## 📦 Contents
+## Contents
 - `script_modelo` → Jupyter notebooks with analysis scripts  
 - `panel_limpio.csv` → Datasets used in the examples  
  
 ---
 
-## ⚙️ Requirements
+## Requirements
 To run the notebooks, install the following packages:
 ```bash
 pip install pandas numpy statsmodels linearmodels matplotlib
