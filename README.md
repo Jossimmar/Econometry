@@ -13,8 +13,8 @@ It demonstrates how to estimate and interpret panel data models (FE/RE) and perf
 ---
 
 ## 📦 Contents
-- `notebooks/` → Jupyter notebooks with analysis scripts  
-- `data/` → Datasets used in the examples  
+- `script_modelo` → Jupyter notebooks with analysis scripts  
+- `panel_limpio.csv` → Datasets used in the examples  
  
 ---
 
